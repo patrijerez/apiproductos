@@ -1,0 +1,5 @@
+INSERT INTO productos (codigo,tipo,cantidad,precio,marca,fecha,descripcion) VALUES ('E196/22','Televisión HDMI',79,129.86,'Lenovo','2022-01-01','Televisión a color alta definición.')
+INSERT INTO productos (codigo,tipo,cantidad,precio,marca,fecha,descripcion) VALUES ('E256/80','Televisión',3,829.00,'Sony','2022-01-01','Televisión vintage a color sin mando a distancia.')
+INSERT INTO productos (codigo,tipo,cantidad,precio,marca,fecha,descripcion) VALUES ('E100/21','Robot de Cocina',30,425.60,'Cecotec','2022-01-01','Robot de cocina con todas las prestaciones de una cocina profesional.')
+INSERT INTO productos (codigo,tipo,cantidad,precio,marca,fecha,descripcion) VALUES ('C321/22','Cartucho tinta',159,29.06,'HP','2022-01-01','Cartucho tinta color, gran durabilidad.')
+INSERT INTO productos (codigo,tipo,cantidad,precio,marca,fecha,descripcion) VALUES ('C645/22','Ratón',709,9.99,'Lenovo','2022-01-01','Ratones ergonómicos.')
